@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674732714842" clover="3.2.0">
+  <project timestamp="1674732714842" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3" elements="24" coveredelements="24" complexity="0" loc="11" ncloc="11" packages="1" files="4" classes="4"/>
+    <file name="equals.js" path="/Users/mariano/Documents/Isdi-bootcamp/week2/day2-3/equals.js">
+      <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="17" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="15" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="8" type="stmt"/>
+    </file>
+    <file name="factorial.js" path="/Users/mariano/Documents/Isdi-bootcamp/week2/day2-3/factorial.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="6" type="stmt"/>
+    </file>
+    <file name="sample.js" path="/Users/mariano/Documents/Isdi-bootcamp/week2/day2-3/sample.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="test.Cases.js" path="/Users/mariano/Documents/Isdi-bootcamp/week2/day2-3/test.Cases.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
