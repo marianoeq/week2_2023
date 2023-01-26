@@ -1,7 +1,7 @@
 import { strictEquals } from './equals';
 import { testCases } from './test.Cases';
 describe('Given a strictEqual function', () => {
-  describe.skip('When we have two parameters', () => {
+  describe('When we have two parameters', () => {
     testCases.forEach((item) => {
       test(`When we have two parameters ${item.label} then result should be ${item.result}`, () => {
         const r = strictEquals(item.a, item.b);
